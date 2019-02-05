@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Scribby</string>
-    <string name="upload_btn">Upload</string>
-    <string name="capture_btn">Capture</string>
-    <string name="convert_btn">Convert</string>
-    <string name="image_name">Imageforprocessing</string>
-</resources>
